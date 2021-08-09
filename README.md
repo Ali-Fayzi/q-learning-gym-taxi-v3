@@ -1,4 +1,4 @@
-# q-learning-gym-taxi-v3
+# Q-learning-gym-taxi-v3
 Implementing the Q learning algorithm  ( Reinforcement Learning ) with gym toolkit
 
 ## Result ( (Reward , Wrong Dropout) / Episode)
